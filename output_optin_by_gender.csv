@@ -1,0 +1,13 @@
+gender,marketing_opt_in,count
+Female,No,47
+Female,Unknown,1
+Female,Yes,44
+Male,No,50
+Male,Unknown,4
+Male,Yes,38
+Other,No,32
+Other,Unknown,3
+Other,Yes,24
+Unknown,No,27
+Unknown,Unknown,3
+Unknown,Yes,26
